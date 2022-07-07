@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "1-days-hourly-and-next-7-days-app",
+    "slug": "snack-59cab8af-bdaf-4854-81dd-5fa42b00c56b",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.fahad12.snack59cab8afbdaf485481dd5fa42b00c56b"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
